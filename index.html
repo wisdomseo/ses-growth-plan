@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>SES Auto Growth Plan</title>
+<meta name="description" content="How SES MGT can win auto-business clients: what each channel can deliver, what it costs, and the decisions to make now.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="assets/styles.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23121212'/%3E%3Cpath d='M7 22l6-7 5 4 7-9' fill='none' stroke='%2322b9e6' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <div class="brand">SES <span>MGT</span></div>
+    <nav class="nav" aria-label="Sections">
+      <a href="#answer">90-day answer</a>
+      <a href="#why">Why not Search</a>
+      <a href="#channels">Channels</a>
+      <a href="#builder">Funnel builder</a>
+      <a href="#targeting">Target by tools</a>
+      <a href="#playbooks">Setup</a>
+      <a href="#plan">90-day plan</a>
+      <a href="#decide">Decisions</a>
+      <a href="#sources">Sources</a>
+    </nav>
+    <button class="theme-btn" id="theme" type="button">Theme</button>
+  </div>
+</header>
+
+<main>
+<section class="hero">
+  <div class="wrap">
+    <div class="eyebrow">Auto growth plan · for Asmat and Kaisin · <span id="asof"></span></div>
+    <h1>Where SES's next auto clients will come from</h1>
+    <p class="lede">Google Search alone will not get SES to $100k a month. Auto owners exist in large numbers, but almost none of them search Google for an agency. This page shows what each channel can deliver, what it costs, and what to decide this week. Every input is yours to change.</p>
+    <div class="meta-row">
+      <span>Scope: dealerships · repair, collision, tire · detailing, tint, PPF, car wash</span>
+      <span>Services: SEO, AI search, Google Ads, Meta and social, web</span>
+      <span>Your inputs stay in your browser only</span>
+    </div>
+  </div>
+</section>
+
+<section class="block" id="answer">
+  <div class="wrap">
+    <div class="head">
+      <div class="eyebrow">The question</div>
+      <h2>Can we reach $100k MRR in 2 to 3 months?</h2>
+      <p class="prose">Type today's MRR and the rest updates. The math is simple: the target, minus what today's clients will still pay after churn, divided by the fee, spread over the months you have.</p>
+    </div>
+    <div class="answer">
+      <div class="card inputs">
+        <div class="field"><label for="in-start">Today's MRR <b data-show="start"></b></label><input id="in-start" type="number" min="0" step="500" data-in="start" data-fmt="money"><span class="hint">Not stored in this page. Saved only in your browser.</span></div>
+        <div class="field"><label for="in-target">Target MRR <b data-show="target"></b></label><input id="in-target" type="number" min="0" step="5000" data-in="target" data-fmt="money"></div>
+        <div class="field"><label for="in-months">Months to get there <b data-show="months"></b></label><input id="in-months" type="range" min="2" max="24" step="1" data-in="months"></div>
+        <div class="field"><label for="in-fee">Average fee per new client <b data-show="fee"></b></label><input id="in-fee" type="range" min="1000" max="7500" step="250" data-in="fee" data-fmt="money"><span class="hint">Public list prices: $2,500 per service; Complete $5,000; social $1,497 to $4,997.</span></div>
+        <div class="field"><label for="in-stay">Average client stay, months <b data-show="stay"></b></label><input id="in-stay" type="range" min="3" max="36" step="1" data-in="stay"><span class="hint">Use the measured number from the internal dashboard.</span></div>
+        <div class="field"><label for="in-sales">Sales calls the team can run a week <b data-show="salesCap"></b></label><input id="in-sales" type="range" min="2" max="60" step="1" data-in="salesCap"></div>
+        <div class="field"><label for="in-onb">New clients the team can onboard a month <b data-show="onboardCap"></b></label><input id="in-onb" type="range" min="1" max="30" step="1" data-in="onboardCap"></div>
+        <div class="field"><label>Benchmark case</label><div class="seg" role="group" aria-label="Benchmark case"><button type="button" data-case="low">Low</button><button type="button" data-case="mid">Mid</button><button type="button" data-case="high">High</button></div><span class="hint">Low moves every rate against us at once; high moves every rate for us.</span></div>
+        <div class="field"><label>Area</label><div class="seg" role="group" aria-label="Area"><button type="button" data-area="top20">Top 20 metros</button><button type="button" data-area="us">Whole US</button></div></div>
+        <button class="btn" id="reset" type="button">Reset inputs</button>
+      </div>
+      <div class="grid" style="align-content:start">
+        <div class="card accent">
+          <p class="verdict" id="answer-head"></p>
+          <p class="small" id="answer-cap" style="color:var(--fg-2)"></p>
+        </div>
+        <div class="card">
+          <h3>What each channel would need, on its own, to deliver that</h3>
+          <p class="small muted">Steady monthly volume after each channel's ramp-up. One channel alone is never the plan; this shows the scale involved.</p>
+          <div class="tbl-wrap"><table><thead><tr><th>Channel</th><th>Volume needed</th><th>Cost</th></tr></thead><tbody id="alone-body"></tbody></table></div>
+        </div>
+        <div class="card" id="honest">
+          <h3>The honest read</h3>
+          <div class="body small" id="honest-body" style="color:var(--fg-2);display:flex;flex-direction:column;gap:8px"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="block" id="why">
+  <div class="wrap">
+    <div class="head">
+      <div class="eyebrow">Is there no demand?</div>
+      <h2>The owners are there. They just don't search for an agency.</h2>
+      <p class="prose" id="why-lede"></p>
+    </div>
+    <div class="grid g4" id="why-stats"></div>
+    <p class="src" id="why-src"></p>
+  </div>
+</section>
+
+<section class="block" id="channels">
+  <div class="wrap">
+    <div class="head">
+      <div class="eyebrow">Every channel we looked at</div>
+      <h2>Go to the owners, don't wait for them</h2>
+      <p class="prose">Each card gives a verdict, the realistic reach and cost, and how fast it can produce a first sales meeting. Open a card for the reasoning and the first steps.</p>
+    </div>
+    <div class="filters"><span class="small muted">Show for:</span><div class="seg" role="group" aria-label="Vertical"><button type="button" data-vert="all">All auto</button><button type="button" data-vert="dealers">Dealerships</button><button type="button" data-vert="repair">Repair and collision</button><button type="button" data-vert="detailing">Detailing, tint, wash</button></div></div>
+    <div class="grid g-cards" id="channel-cards"></div>
+  </div>
+</section>
+
+<section class="block" id="builder">
+  <div class="wrap">
+    <div class="head">
+      <div class="eyebrow">Funnel builder</div>
+      <h2>Mix the channels and watch the months</h2>
+      <p class="prose">Turn channels on, set the volume, and the model runs month by month from <span id="start-month"></span>: leads, meetings, new clients, churn and MRR. It uses the inputs and case from the top of the page.</p>
+    </div>
+    <div class="presets" id="presets"><span class="small muted" style="align-self:center">Presets:</span></div>
+    <div class="builder">
+      <div class="mix" id="mix"></div>
+      <div class="grid" style="align-content:start">
+        <div class="grid kpis">
+          <div class="card stat"><span class="v" id="k-target"></span><span class="l">Target reached</span><span class="s" id="k-target-s"></span></div>
+          <div class="card stat"><span class="v" id="k-mrrm"></span><span class="l" id="k-mrrm-l"></span></div>
+          <div class="card stat"><span class="v" id="k-new"></span><span class="l">New clients a month</span><span class="s">at month 6</span></div>
+          <div class="card stat"><span class="v" id="k-spend"></span><span class="l">Spend a month</span><span class="s">at month 6 · cost per client <b id="k-cac"></b></span></div>
+        </div>
+        <div id="flags" class="grid"></div>
+        <div class="card chart-card">
+          <h3>MRR by month</h3>
+          <svg class="chart" id="chart-mrr" viewBox="0 0 720 280" preserveAspectRatio="xMidYMid meet" role="img" aria-label="MRR by month against the target"></svg>
+          <p class="src">Model: assets/app.js simulate(), inputs above, rates in assets/data.js. Sales calls needed at month 6: <b id="k-calls"></b> a week.</p>
+        </div>
+        <div class="card chart-card">
+          <h3>New clients a month, by channel family</h3>
+          <div class="legend" id="bars-legend"></div>
+          <svg class="chart" id="chart-bars" viewBox="0 0 720 220" role="img" aria-label="New clients a month by channel family"></svg>
+        </div>
+        <div class="card">
+          <h3>First six months, monthly average</h3>
+          <div class="tbl-wrap"><table><thead><tr><th>Channel</th><th class="r">Spend</th><th class="r">Leads</th><th class="r">Meetings</th><th class="r">Clients</th><th class="r">Cost per client</th></tr></thead><tbody id="res-body"></tbody></table></div>
+          <p class="src">Spend counts ad budgets, the Search campaign and outbound tools. Staff time is not priced.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="block" id="targeting">
+  <div class="wrap">
+    <div class="head">
+      <div class="eyebrow">Your idea: target them by the tools they use</div>
+      <h2>Reach owners through the software, suppliers and sites only they use</h2>
+      <div class="prose" id="targeting-lede"></div>
+    </div>
+    <div class="grid g3" id="targeting-cards"></div>
+    <div class="card">
+      <div class="top-row" style="display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap"><h3>Signal list by vertical</h3><span class="small muted" id="sig-count"></span></div>
+      <p class="small muted">Search terms only people who work in these businesses type. Volume is US searches a month from Google Keyword Planner. The vertical filter above the channel cards also filters this list.</p>
+      <div class="tbl-wrap"><table><thead><tr><th>Vertical</th><th>Signal</th><th>Example search terms</th><th class="r">US searches a month</th></tr></thead><tbody id="sig-body"></tbody></table></div>
+      <div><button class="btn" id="sig-more" type="button">Show all</button></div>
+      <p class="src" id="sig-src"></p>
+    </div>
+  </div>
+</section>
+
+<section class="block" id="playbooks">
+  <div class="wrap">
+    <div class="head">
+      <div class="eyebrow">Setup</div>
+      <h2>How to set each channel up</h2>
+      <p class="prose">Tick steps as they get done. Ticks are saved in your browser only, so use the decisions export below to share status.</p>
+    </div>
+    <div class="grid g2" id="playbook-cards"></div>
+  </div>
+</section>
+
+<section class="block" id="plan">
+  <div class="wrap">
+    <div class="head">
+      <div class="eyebrow">The first 90 days</div>
+      <h2>Prove the numbers, then pour money into what works</h2>
+      <p class="prose" id="plan-lede"></p>
+    </div>
+    <div class="timeline" id="timeline"></div>
+    <div class="card">
+      <h3>When to kill, keep or scale a channel</h3>
+      <div class="tbl-wrap"><table><thead><tr><th>Channel</th><th>Kill if, after the test</th><th>Scale if</th><th>Test length</th></tr></thead><tbody id="thresholds"></tbody></table></div>
+    </div>
+  </div>
+</section>
+
+<section class="block" id="decide">
+  <div class="wrap">
+    <div class="head">
+      <div class="eyebrow">For Asmat and Kaisin</div>
+      <h2>Decide these this week</h2>
+      <p class="prose">Each of you picks here, then press copy and send the text to the other. Picks and notes are saved in your own browser.</p>
+    </div>
+    <div class="grid g2" id="decisions"></div>
+    <div style="display:flex;gap:12px;align-items:center;flex-wrap:wrap"><button class="btn primary" id="copy-dec" type="button">Copy my picks</button><span class="small muted" id="copy-msg" role="status"></span></div>
+    <textarea id="copy-out" hidden rows="10" aria-label="Your picks as text"></textarea>
+  </div>
+</section>
+
+<section class="block" id="sources">
+  <div class="wrap">
+    <div class="head">
+      <div class="eyebrow">Method and sources</div>
+      <h2>Where every number comes from</h2>
+    </div>
+    <div class="grid g2" id="method"></div>
+    <div class="card"><h3>Sources</h3><ul class="clean small" id="source-list"></ul></div>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="wrap">Prepared <span id="asof2"></span> for SES MGT internal planning. Benchmarks are published third-party figures, mostly from vendors, and are not auto-specific unless stated; SES has not tested most of these channels yet. Research notes: <a href="https://github.com/wisdomseo/ses-growth-plan/tree/main/research" target="_blank" rel="noopener">research folder on GitHub</a>.</div>
+</footer>
+
+<script src="assets/data.js"></script>
+<script src="assets/signals.js"></script>
+<script src="assets/content.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

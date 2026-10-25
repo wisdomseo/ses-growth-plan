@@ -1,0 +1,277 @@
+vertical,signal_type,name,domain,app,search_term,us_monthly_volume,competition,bid_low,bid_high,note
+repair_collision_tire,software,Tekmetric,tekmetric.com,Tekmetric Mobile (iOS; Android com.tekmetric.tekmetric 10K+ installs),tekmetric,40500,MEDIUM,12.88,25.9,"Site claims ""trusted by more than 16,000 shops"" (tekmetric.com, fetched 2026-10-25, vendor claim)"
+repair_collision_tire,software,Tekmetric,tekmetric.com,Tekmetric Mobile (iOS; Android com.tekmetric.tekmetric 10K+ installs),tekmetric login,33100,LOW,6.87,7.8,"Site claims ""trusted by more than 16,000 shops"" (tekmetric.com, fetched 2026-10-25, vendor claim)"
+repair_collision_tire,software,Tekmetric,tekmetric.com,Tekmetric Mobile (iOS; Android com.tekmetric.tekmetric 10K+ installs),tekmetric pricing,390,MEDIUM,12.01,33.91,"Site claims ""trusted by more than 16,000 shops"" (tekmetric.com, fetched 2026-10-25, vendor claim)"
+repair_collision_tire,software,Shopmonkey,shopmonkey.io,Shopmonkey for Techs (iOS; Android io.shopmonkey.app 10K+),shopmonkey,12100,MEDIUM,5.85,65.8,"Site claims ""over 8,000 shops"" (shopmonkey.io, fetched 2026-10-25, vendor claim)"
+repair_collision_tire,software,Shopmonkey,shopmonkey.io,Shopmonkey for Techs (iOS; Android io.shopmonkey.app 10K+),shopmonkey login,5400,LOW,6.14,16.09,"Site claims ""over 8,000 shops"" (shopmonkey.io, fetched 2026-10-25, vendor claim)"
+repair_collision_tire,software,AutoLeap,autoleap.com,AutoLeap: Auto Repair Software (iOS; Android com.autoleap.alpmobile.prod 500+),autoleap,3600,MEDIUM,9.34,68.68,"Site claims ""thousands of shop owners"" and OK Tire 325+ shops (autoleap.com, 2026-10-25)"
+repair_collision_tire,software,AutoLeap,autoleap.com,AutoLeap: Auto Repair Software (iOS; Android com.autoleap.alpmobile.prod 500+),autoleap login,5400,LOW,3.37,11.31,"Site claims ""thousands of shop owners"" and OK Tire 325+ shops (autoleap.com, 2026-10-25)"
+repair_collision_tire,software,AutoLeap,autoleap.com,AutoLeap: Auto Repair Software (iOS; Android com.autoleap.alpmobile.prod 500+),autoleap pricing,170,MEDIUM,14.66,87.29,"Site claims ""thousands of shop owners"" and OK Tire 325+ shops (autoleap.com, 2026-10-25)"
+repair_collision_tire,software,Shop-Ware,shop-ware.com,TechApp by Shop-Ware (iOS; Android com.shop_ware.tech_app 1K+),shop-ware login,1900,LOW,6.94,12.59,"""shopware"" alone collides with the Shopware e-commerce platform; use the hyphenated login term"
+repair_collision_tire,software,Shop-Ware,shop-ware.com,TechApp by Shop-Ware (iOS; Android com.shop_ware.tech_app 1K+),shopware auto repair,0,,,,"""shopware"" alone collides with the Shopware e-commerce platform; use the hyphenated login term"
+repair_collision_tire,software,"Mitchell 1 (ProDemand, Manager SE)",mitchell1.com,ProSpect for M1-SK (Android com.mitchell1.prospect 10K+),mitchell 1,9900,LOW,3.18,39.59,ProDemand is repair information used daily by technicians: staff signal more than owner signal
+repair_collision_tire,software,"Mitchell 1 (ProDemand, Manager SE)",mitchell1.com,ProSpect for M1-SK (Android com.mitchell1.prospect 10K+),mitchell 1 login,1300,LOW,0.31,4.8,ProDemand is repair information used daily by technicians: staff signal more than owner signal
+repair_collision_tire,software,"Mitchell 1 (ProDemand, Manager SE)",mitchell1.com,ProSpect for M1-SK (Android com.mitchell1.prospect 10K+),prodemand,90500,LOW,2.29,8.17,technician tool: staff not owners | ProDemand is repair information used daily by technicians: staff signal more than owner signal
+repair_collision_tire,software,"Mitchell 1 (ProDemand, Manager SE)",mitchell1.com,ProSpect for M1-SK (Android com.mitchell1.prospect 10K+),prodemand login,18100,LOW,1.69,6.94,technician tool: staff not owners | ProDemand is repair information used daily by technicians: staff signal more than owner signal
+repair_collision_tire,software,"Mitchell 1 (ProDemand, Manager SE)",mitchell1.com,ProSpect for M1-SK (Android com.mitchell1.prospect 10K+),mitchell 1 manager se,140,MEDIUM,3.38,73.25,ProDemand is repair information used daily by technicians: staff signal more than owner signal
+repair_collision_tire,software,ALLDATA,alldata.com,ALLDATA (Android com.ALLDATA.MyALLDATA 100K+),alldata,135000,LOW,1.41,5.19,includes ALLDATA DIY consumer searches | Includes ALLDATA DIY consumer searches; technician-heavy
+repair_collision_tire,software,ALLDATA,alldata.com,ALLDATA (Android com.ALLDATA.MyALLDATA 100K+),alldata login,74000,LOW,1.54,10.6,technician tool: staff not owners | Includes ALLDATA DIY consumer searches; technician-heavy
+repair_collision_tire,software,Identifix Direct-Hit,identifix.com,Direct-Hit Mobile by Identifix (Android 10K+),identifix,40500,LOW,1.54,6.35,Technician repair-information tool: staff signal
+repair_collision_tire,software,Identifix Direct-Hit,identifix.com,Direct-Hit Mobile by Identifix (Android 10K+),identifix login,40500,LOW,2.29,10.41,technician tool: staff not owners | Technician repair-information tool: staff signal
+repair_collision_tire,software,NAPA TRACS,napatracs.com,NAPA TRACS (iOS); MobileTRACS (Android com.tracsmobile 1K+),napa tracs,880,LOW,3.59,20.55,
+repair_collision_tire,software,NAPA TRACS,napatracs.com,NAPA TRACS (iOS); MobileTRACS (Android com.tracsmobile 1K+),napa tracs login,90,LOW,,,
+repair_collision_tire,software,R.O. Writer,rowriter.com,,ro writer,590,MEDIUM,12.0,66.17,
+repair_collision_tire,software,R.O. Writer,rowriter.com,,rowriter login,0,,,,
+repair_collision_tire,software,Protractor,protractorsoftware.com,,protractor software,140,MEDIUM,5.72,66.06,protractor.com redirects to protractorsoftware.com (checked 2026-10-25)
+repair_collision_tire,software,Protractor,protractorsoftware.com,,protractor login,20,LOW,,,protractor.com redirects to protractorsoftware.com (checked 2026-10-25)
+repair_collision_tire,software,AutoVitals,autovitals.com,AutoVitals.X (Android com.autovitals.smartflowx 10K+),autovitals,1000,LOW,6.38,34.5,Digital inspection and shop marketing vendor (adjacent competitor to SES)
+repair_collision_tire,software,AutoVitals,autovitals.com,AutoVitals.X (Android com.autovitals.smartflowx 10K+),autovitals login,480,LOW,,,Digital inspection and shop marketing vendor (adjacent competitor to SES)
+repair_collision_tire,software,Bolt On Technology,boltontechnology.com,BoltOn Technology (iOS),bolt on technology,720,LOW,5.12,21.42,
+repair_collision_tire,software,Kukui,kukui.com,Kukui DVI (iOS),kukui,5400,LOW,6.82,8.01,"mixes non-auto meanings | ""kukui"" also matches non-auto searches (Hawaiian kukui nut); weak signal. Kukui sells shop websites and marketing (competitor to SES)"
+repair_collision_tire,software,Steer CRM,steer.io,,steer crm,590,MEDIUM,2.03,18.59,"steercrm.com redirects to steer.io ""The Front-of-House Platform For Auto Shops"" (2026-10-25). Shop CRM and marketing vendor (adjacent competitor)"
+repair_collision_tire,software,AutoServe1,autoserve1.com,,autoserve1,3600,LOW,5.69,8.73,Shop customer communication and marketing software
+repair_collision_tire,software,Shop Boss,shopboss.net,,shop boss pro,320,MEDIUM,9.1,44.0,
+repair_collision_tire,software,Shop Boss,shopboss.net,,shop boss software,40,LOW,11.77,81.1,
+repair_collision_tire,software,Torque360,torque360.co,,torque360,480,MEDIUM,3.21,22.54,
+repair_collision_tire,software,ARI Auto Repair Software,ari.app,"ARI (Auto Repair Software) (iOS, 286 ratings)",ari auto repair software,720,MEDIUM,2.55,21.69,Low-cost app used by small and mobile mechanics | domain not confirmed (check returned an unrelated page)
+repair_collision_tire,software,Omnique,omnique.com,,omnique,1000,LOW,2.84,9.53,
+repair_collision_tire,software,Openbay,openbay.com,,openbay,1300,LOW,1.85,8.89,
+repair_collision_tire,software,ShopGenie,shopgenie.io,,shopgenie,1300,LOW,21.8,80.98,"shopgenie.io now titled ""Shopgenie - Now Tekmetric Marketing"" (2026-10-25). Shop marketing vendor (competitor to SES); high bids"
+repair_collision_tire,software,Category: auto repair shop software,,,auto repair shop software,2900,MEDIUM,7.36,42.44,Generic category terms: owners evaluating software
+repair_collision_tire,software,Category: auto repair shop software,,,auto repair shop management software,1300,MEDIUM,12.81,67.81,Generic category terms: owners evaluating software
+repair_collision_tire,software,CCC ONE,cccis.com,"CCC ONE Repair Facility (iOS 3,196 ratings; Android com.cccis.cccone 100K+)",ccc one,5400,LOW,3.83,15.32,Collision estimating standard; cccis.com returned HTTP 403 to fetch on 2026-10-25
+repair_collision_tire,software,CCC ONE,cccis.com,"CCC ONE Repair Facility (iOS 3,196 ratings; Android com.cccis.cccone 100K+)",ccc one login,1900,LOW,,,Collision estimating standard; cccis.com returned HTTP 403 to fetch on 2026-10-25
+repair_collision_tire,software,CCC ONE,cccis.com,"CCC ONE Repair Facility (iOS 3,196 ratings; Android com.cccis.cccone 100K+)",ccc estimating,390,MEDIUM,4.93,25.97,Collision estimating standard; cccis.com returned HTTP 403 to fetch on 2026-10-25
+repair_collision_tire,software,CCC ONE,cccis.com,"CCC ONE Repair Facility (iOS 3,196 ratings; Android com.cccis.cccone 100K+)",ccc one pricing,40,MEDIUM,5.57,26.27,Collision estimating standard; cccis.com returned HTTP 403 to fetch on 2026-10-25
+repair_collision_tire,software,Mitchell Cloud Estimating,mitchell.com,,mitchell cloud estimating,480,MEDIUM,2.23,19.25,Collision estimating
+repair_collision_tire,software,Mitchell Cloud Estimating,mitchell.com,,mitchell estimating login,390,LOW,2.61,6.86,Collision estimating
+repair_collision_tire,software,Audatex / Qapter (Solera),audatex.us,,audatex,1000,LOW,2.72,18.83,Collision estimating
+repair_collision_tire,software,Audatex / Qapter (Solera),audatex.us,,qapter,90,LOW,2.98,11.81,Collision estimating
+repair_collision_tire,software,Category: body shop management software,,,body shop management software,50,MEDIUM,11.95,60.54,
+repair_collision_tire,portal,PartsTrader,partstrader.us,,partstrader,4400,LOW,2.58,4.09,Collision parts procurement | domain did not answer automated check 2026-10-25
+repair_collision_tire,portal,WORLDPAC speedDIAL,worldpac.com,WORLDPAC (iOS 81 ratings; Android com.worldpac.scanner 50K+),worldpac,49500,LOW,0.58,4.27,Pro-only parts distributor: strong shop signal
+repair_collision_tire,portal,WORLDPAC speedDIAL,worldpac.com,WORLDPAC (iOS 81 ratings; Android com.worldpac.scanner 50K+),worldpac speeddial,2900,LOW,4.89,25.68,Pro-only parts distributor: strong shop signal
+repair_collision_tire,portal,PartsTech,partstech.com,,partstech,12100,LOW,1.89,10.8,Pro parts ordering platform
+repair_collision_tire,portal,PartsTech,partstech.com,,partstech login,2400,LOW,2.86,11.89,Pro parts ordering platform
+repair_collision_tire,portal,Nexpart,nexpart.com,,nexpart,12100,LOW,2.15,11.43,Pro parts ordering platform
+repair_collision_tire,portal,Nexpart,nexpart.com,,nexpart login,2400,LOW,4.23,13.11,Pro parts ordering platform
+repair_collision_tire,portal,RepairLink (OEC),repairlinkshop.com,,repairlink,49500,LOW,2.8,25.71,OEM parts ordering used by dealers and independent shops
+repair_collision_tire,portal,NAPA PROLink,napaprolink.com,NAPA PROLink (Android com.napa.prolink 100K+),napa prolink,60500,LOW,1.1,2.46,Pro parts ordering
+repair_collision_tire,portal,AutoZone Pro,autozonepro.com,"AutoZonePro Mobile (iOS 8,683 ratings; Android 100K+)",autozone pro,49500,LOW,2.4,6.73,Pro parts ordering
+repair_collision_tire,portal,O'Reilly First Call Online,firstcallonline.com,O'Reilly Pro (Android com.oreillyauto.professional 500K+),first call online,18100,LOW,1.6,3.24,Pro parts ordering
+repair_collision_tire,portal,MyPlace4Parts (Advance Pro),myplace4parts.com,,myplace4parts,880,LOW,,,
+repair_collision_tire,portal,RepairPal Certified,repairpal.com,,repairpal certified shop,590,LOW,1.25,8.22,Mostly consumer site; only the shop terms are useful
+repair_collision_tire,portal,RepairPal Certified,repairpal.com,,repairpal for shops,0,,,,Mostly consumer site; only the shop terms are useful
+repair_collision_tire,portal,TireHub,tirehub.com,,tirehub,22200,LOW,1.01,3.43,Tire distributor portal
+repair_collision_tire,portal,TireHub,tirehub.com,,tirehub login,2400,LOW,1.4,8.2,Tire distributor portal
+repair_collision_tire,portal,ATD Online (American Tire Distributors),atdonline.com,,atd online,3600,LOW,1.65,27.22,Tire distributor portal
+repair_collision_tire,portal,ATD Online (American Tire Distributors),atdonline.com,,atdonline login,480,LOW,,,Tire distributor portal
+repair_collision_tire,portal,ATD Online (American Tire Distributors),atdonline.com,,american tire distributors login,320,LOW,,,Tire distributor portal
+repair_collision_tire,portal,TireConnect,tireconnect.ca,,tireconnect,320,LOW,,,Tire e-commerce for dealers
+repair_collision_tire,portal,U.S. AutoForce,usautoforce.com,,u.s. auto force,,,,,"not returned by Keyword Planner for this exact spelling; variant ""us autoforce"" = 40,500 (treat with caution) | Seed not returned exactly; variant ""us autoforce"" shows 40,500 (looks inflated by grouping, treat with caution)"
+repair_collision_tire,software,Category: tire shop software,,,tire shop software,210,MEDIUM,6.0,31.13,
+repair_collision_tire,software,Category: tire shop software,,,tire shop pos,10,HIGH,9.16,14.67,
+repair_collision_tire,publication,Ratchet+Wrench,ratchetandwrench.com,,ratchet and wrench,590,MEDIUM,0.53,4.39,"Do NOT use ""ratchet wrench"" (40,500, hand-tool shoppers)"
+repair_collision_tire,publication,Ratchet+Wrench,ratchetandwrench.com,,ratchet+wrench magazine,140,LOW,,,"Do NOT use ""ratchet wrench"" (40,500, hand-tool shoppers)"
+repair_collision_tire,publication,FenderBender,fenderbender.com,,fenderbender,22200,LOW,0.92,32.65,"EXCLUDE from sizing: mostly consumer ""fender bender"" searches | 22,200 is mostly people searching ""fender bender"" (minor crash). Use the URL, not the keyword"
+repair_collision_tire,publication,Autobody News,autobodynews.com,,autobody news,390,LOW,,,
+repair_collision_tire,publication,Body Shop Business,bodyshopbusiness.com,,body shop business magazine,90,LOW,,,
+repair_collision_tire,publication,Motor Age,motorage.com,,motor age magazine,170,LOW,1.03,2.7,Domain not confirmed | domain did not answer automated check 2026-10-25
+repair_collision_tire,publication,Underhood Service,underhoodservice.com,,underhood service,20,LOW,,,
+repair_collision_tire,publication,Shop Owner magazine,shopownermag.com,,shop owner magazine,70,LOW,,,
+repair_collision_tire,publication,Modern Tire Dealer,moderntiredealer.com,,modern tire dealer,880,LOW,,,
+repair_collision_tire,publication,Tire Review,tirereview.com,,tire review magazine,70,LOW,,,
+repair_collision_tire,publication,Tire Business,tirebusiness.com,,tire business news,30,LOW,,,
+repair_collision_tire,publication,Remarkable Results Radio (podcast),remarkableresults.biz,,remarkable results radio,50,LOW,,,
+repair_collision_tire,forum,iATN,iatn.net,,iatn,1600,LOW,2.81,8.61,Technician network: staff signal
+repair_collision_tire,forum,iATN,iatn.net,,iatn login,260,LOW,2.69,6.53,Technician network: staff signal
+repair_collision_tire,association,Automotive Service Association (ASA),asashop.org,,automotive service association,18100,LOW,0.22,4.63,"likely inflated by grouping with generic searches | 18,100 looks inflated by grouping with generic ""automotive service"" searches"
+repair_collision_tire,association,Auto Care Association,autocare.org,,auto care association,720,LOW,,,
+repair_collision_tire,association,I-CAR,i-car.com,,i-car,12100,LOW,18.74,100.95,"technicians, not owners | Collision technician training: staff signal"
+repair_collision_tire,association,I-CAR,i-car.com,,i-car login,4400,LOW,,,"technicians, not owners | Collision technician training: staff signal"
+repair_collision_tire,association,SCRS,scrs.com,,scrs collision,480,LOW,1.05,2.06,
+repair_collision_tire,association,ASE certification,ase.com,,ase certification,40500,LOW,1.69,22.88,"technicians, not owners | Technician certification: staff, not owners"
+repair_collision_tire,association,Tire Industry Association,tireindustry.org,,tire industry association,201000,LOW,0.02,3.93,"EXCLUDE from sizing: grouping noise | 201,000 is grouping noise; exclude from sizing"
+repair_collision_tire,association,Elite Worldwide (shop coaching),eliteworldwide.com,,elite worldwide auto repair,0,,,,
+repair_collision_tire,association,Automotive Training Institute (shop coaching),autotraining.net,,automotive training institute,550000,LOW,0.02,0.1,"EXCLUDE from sizing: merged with trade-school searches | 550,000 is noise (merged with trade-school searches); exclude"
+repair_collision_tire,event,Collision Industry Conference,ciclink.com,,collision industry conference,110,LOW,,,domain did not answer automated check 2026-10-25
+repair_collision_tire,event,AAPEX,aapexshow.com,,aapex,1900,LOW,0.33,1.85,"Aftermarket trade show (Las Vegas, November)"
+repair_collision_tire,event,AAPEX,aapexshow.com,,aapex 2026,1300,LOW,0.3,2.07,"Aftermarket trade show (Las Vegas, November)"
+repair_collision_tire,event,Vision Hi-Tech Training & Expo,visionkc.com,,vision hi-tech training expo,70,LOW,,,
+repair_collision_tire,event,Global Tire Expo,globaltireexpo.com,,global tire expo,70,LOW,,,domain did not answer automated check 2026-10-25
+dealership,software,CDK Global (DMS),cdkglobal.com,CDK Modern Retail CRM (Android 50K+); CDK CRM (Android 500+),cdk global,12100,LOW,0.01,4.18,"cdkglobal.com/about cites ""9,000+ CDK customers"" (bio text, customers not rooftops)"
+dealership,software,CDK Global (DMS),cdkglobal.com,CDK Modern Retail CRM (Android 50K+); CDK CRM (Android 500+),cdk login,6600,LOW,,,"cdkglobal.com/about cites ""9,000+ CDK customers"" (bio text, customers not rooftops)"
+dealership,software,CDK Global (DMS),cdkglobal.com,CDK Modern Retail CRM (Android 50K+); CDK CRM (Android 500+),cdk drive,720,LOW,2.93,9.79,"cdkglobal.com/about cites ""9,000+ CDK customers"" (bio text, customers not rooftops)"
+dealership,software,Reynolds and Reynolds (DMS),reyrey.com,FOCUS by Reynolds and Reynolds (Android com.reyrey.digisales 10K+),reynolds and reynolds,27100,LOW,0.12,2.22,
+dealership,software,Reynolds and Reynolds (DMS),reyrey.com,FOCUS by Reynolds and Reynolds (Android com.reyrey.digisales 10K+),reynolds and reynolds login,1600,LOW,,,
+dealership,software,Reynolds and Reynolds (DMS),reyrey.com,FOCUS by Reynolds and Reynolds (Android com.reyrey.digisales 10K+),era ignite,260,LOW,1.04,6.13,
+dealership,software,Dealertrack (Cox),dealertrack.com,,dealertrack,135000,LOW,2.93,7.86,F&I and DMS; staff heavy
+dealership,software,Dealertrack (Cox),dealertrack.com,,dealertrack login,18100,LOW,3.33,7.27,F&I and sales staff heavy | F&I and DMS; staff heavy
+dealership,software,DealerSocket,dealersocket.com,CRM by DealerSocket (Android com.dealersocket.crm 10K+),dealersocket,60500,LOW,2.75,6.91,
+dealership,software,DealerSocket,dealersocket.com,CRM by DealerSocket (Android com.dealersocket.crm 10K+),dealersocket login,12100,LOW,2.75,4.37,
+dealership,software,VinSolutions (Cox),vinsolutions.com,VinSolutions (Android com.vinsolutions.vinconnect 100K+),vinsolutions,110000,LOW,2.5,6.02,CRM used by sales staff
+dealership,software,VinSolutions (Cox),vinsolutions.com,VinSolutions (Android com.vinsolutions.vinconnect 100K+),vinsolutions login,18100,LOW,2.97,4.77,sales staff heavy | CRM used by sales staff
+dealership,software,vAuto (Cox),vauto.com,Provision (Android com.vauto.provision 100K+),vauto,60500,LOW,0.09,3.69,Used-car inventory pricing: used-car managers
+dealership,software,vAuto (Cox),vauto.com,Provision (Android com.vauto.provision 100K+),vauto login,14800,LOW,0.02,0.22,Used-car inventory pricing: used-car managers
+dealership,software,eLEAD (CDK CRM),,"eLEAD (Android 50K+, publisher not confirmed as CDK)",elead login,2900,LOW,,,
+dealership,software,DriveCentric,drivecentric.com,DriveCentric (Android 10K+),drivecentric,60500,LOW,3.31,10.67,
+dealership,software,Tekion,tekion.com,Tekion (Android com.tekion.sales 10K+),tekion,40500,LOW,2.14,39.14,
+dealership,software,DealerCenter,dealercenter.com,DealerCenter Mobile (Android com.nowcom.dcmobile 50K+),dealercenter,49500,LOW,2.54,14.88,"Site claims ""Trusted by more than 20,000+ dealerships"" (dealercenter.com, 2026-10-25). Independent-dealer heavy"
+dealership,software,DealerCenter,dealercenter.com,DealerCenter Mobile (Android com.nowcom.dcmobile 50K+),dealercenter login,9900,LOW,3.29,10.89,"Site claims ""Trusted by more than 20,000+ dealerships"" (dealercenter.com, 2026-10-25). Independent-dealer heavy"
+dealership,software,Frazer DMS,frazer.com,,frazer dms,1000,MEDIUM,2.46,12.5,Independent and buy-here-pay-here dealers
+dealership,software,Category: dealer management system,,,dealer management system,1300,MEDIUM,5.16,51.25,
+dealership,software,Dealer.com (Cox websites),dealer.com,,dealer.com,1300,MEDIUM,2.93,8.46,Dealer website vendor = SES competitor audience
+dealership,software,Dealer.com (Cox websites),dealer.com,,dealer.com login,480,LOW,3.4,9.48,Dealer website vendor = SES competitor audience
+dealership,software,Dealer Inspire,dealerinspire.com,,dealer inspire,1900,MEDIUM,3.47,13.73,Dealer website vendor (competitor)
+dealership,software,DealerOn,dealeron.com,,dealeron,2400,LOW,3.93,11.15,Dealer website vendor (competitor)
+dealership,software,Dealer eProcess,dealereprocess.com,,dealer eprocess,1300,LOW,0.52,8.0,Dealer website vendor (competitor)
+dealership,software,Overfuel,overfuel.com,,overfuel,880,LOW,3.0,16.8,Dealer website vendor (competitor)
+dealership,software,Dealer Spike,dealerspike.com,,dealer spike,1600,MEDIUM,3.05,19.78,Dealer website vendor (competitor)
+dealership,software,Sincro,dealeron.com/sincro,,sincro dealer,0,,,,sincrodigital.com redirects to dealeron.com/sincro (2026-10-25); term has no volume
+dealership,portal,RouteOne,routeone.com,RouteOne App (Android com.routeone.mobile.android 10K+),routeone,49500,LOW,3.3,16.57,F&I credit portal: F&I managers; routeone.com returned 403 to fetch
+dealership,portal,RouteOne,routeone.com,RouteOne App (Android com.routeone.mobile.android 10K+),routeone login,14800,LOW,2.98,13.5,F&I staff | F&I credit portal: F&I managers; routeone.com returned 403 to fetch
+dealership,portal,700Credit,700credit.com,,700credit login,880,LOW,,,
+dealership,portal,Manheim,manheim.com,Manheim (Android com.manheim.mktplace 50K+),manheim,246000,LOW,0.45,5.0,"EXCLUDE from sizing: includes Manheim PA (place) searches | ""manheim"" 246,000 includes Manheim PA (town); use only the login term"
+dealership,portal,Manheim,manheim.com,Manheim (Android com.manheim.mktplace 50K+),manheim login,14800,LOW,0.08,0.12,"""manheim"" 246,000 includes Manheim PA (town); use only the login term"
+dealership,portal,OPENLANE,openlane.com,OPENLANE US (Android com.backlotcars.backlotcars 10K+),openlane,33100,LOW,0.44,5.0,mixes an unrelated bowling app | An unrelated bowling app is also called OpenLane: use the login term
+dealership,portal,OPENLANE,openlane.com,OPENLANE US (Android com.backlotcars.backlotcars 10K+),openlane login,8100,LOW,5.19,14.19,An unrelated bowling app is also called OpenLane: use the login term
+dealership,portal,ACV Auctions,acvauctions.com,ACV Wholesale Auto Auctions (Android 50K+),acv auctions,40500,LOW,0.46,3.05,
+dealership,portal,ACV Auctions,acvauctions.com,ACV Wholesale Auto Auctions (Android 50K+),acv auctions login,2400,LOW,3.86,6.87,
+dealership,portal,AuctionACCESS,auctionaccess.com,,auctionaccess,22200,LOW,1.15,7.29,Dealer credential required for wholesale auctions: strong dealer signal
+dealership,portal,NextGear Capital,nextgearcapital.com,NextGear Capital (Android 10K+),nextgear capital,22200,LOW,0.33,0.66,Floor-plan lender: owner and finance signal
+dealership,portal,NextGear Capital,nextgearcapital.com,NextGear Capital (Android 10K+),nextgear capital login,3600,LOW,0.31,0.56,Floor-plan lender: owner and finance signal
+dealership,portal,Westlake Flooring,westlakeflooringservices.com,,westlake flooring,2400,LOW,9.72,47.84,Floor-plan lender | domain did not answer automated check 2026-10-25
+dealership,portal,AFC (floor plan),afcdealer.com,,afc dealer login,1900,LOW,2.74,7.37,Floor-plan lender
+dealership,portal,Kinetic Advantage,kineticadvantage.com,,kinetic advantage,4400,LOW,6.8,24.12,Floor-plan lender
+dealership,portal,CARFAX for Dealers,carfaxonline.com,,carfax dealer login,14800,LOW,2.36,12.07,
+dealership,portal,AccuTrade,accu-trade.com,,accutrade,5400,MEDIUM,0.54,6.29,
+dealership,portal,KBB Instant Cash Offer (dealer),kbb.com,,kbb instant cash offer dealer,70,MEDIUM,4.09,14.33,
+dealership,portal,CarGurus dealer portal,cargurus.com,CarGurus Dealer: VINs & Leads (Android com.cargurus.dealer.app 10K+),cargurus dealer login,6600,LOW,0.01,0.05,Listing marketplace dealers pay for
+dealership,portal,CarGurus dealer portal,cargurus.com,CarGurus Dealer: VINs & Leads (Android com.cargurus.dealer.app 10K+),cargurus dealer,2400,MEDIUM,0.22,9.56,Listing marketplace dealers pay for
+dealership,portal,CarGurus dealer portal,cargurus.com,CarGurus Dealer: VINs & Leads (Android com.cargurus.dealer.app 10K+),cargurus dealer pricing,40,LOW,0.37,2.64,Listing marketplace dealers pay for
+dealership,portal,Cars.com dealer (Cars Commerce),cars.com,Cars.com Dealer (Android inc.carscommerce.app 500+),cars.com dealer login,1900,LOW,0.44,2.09,
+dealership,portal,Cars.com dealer (Cars Commerce),cars.com,Cars.com Dealer (Android inc.carscommerce.app 500+),cars commerce dealer,0,,,,
+dealership,portal,Autotrader dealer,autotrader.com,,autotrader dealer login,1300,LOW,1.04,5.41,
+dealership,portal,Autotrader dealer,autotrader.com,,autotrader dealer pricing,20,LOW,5.83,42.06,
+dealership,portal,TrueCar dealer portal,truecar.com,,truecar dealer portal,4400,LOW,1.41,10.19,
+dealership,portal,Edmunds dealer,edmunds.com,,edmunds dealer,1000,HIGH,0.45,3.65,HIGH competition suggests consumer mix
+dealership,portal,Carsforsale.com dealer,carsforsale.com,Carsforsale.com Dealer (Android com.carsforsale.dealerspider 50K+),carsforsale dealer login,1000,LOW,4.47,17.78,Small independent dealers
+dealership,publication,Automotive News,autonews.com,,automotive news,22200,LOW,0.21,5.3,"merges consumer ""auto news"" searches | ""automotive news"" 22,200 merges consumer ""auto news"" searches; use the URL"
+dealership,publication,Automotive News,autonews.com,,autonews,,,,,"not returned by Keyword Planner for this exact spelling; grouped under ""auto news"" 22,200 (consumer mix) | ""automotive news"" 22,200 merges consumer ""auto news"" searches; use the URL"
+dealership,publication,WardsAuto,wardsauto.com,,wardsauto,170,LOW,,,
+dealership,publication,CBT News,cbtnews.com,,cbt news,720,LOW,,,
+dealership,publication,Auto Dealer Today,autodealertodaymag.com,,auto dealer today,70,LOW,,,domain did not answer automated check 2026-10-25
+dealership,publication,F&I and Showroom,fi-magazine.com,,f&i and showroom,70,LOW,5.29,12.66,
+dealership,publication,Used Car Dealer magazine (NIADA),niada.com,,used car dealer magazine,30,LOW,,,
+dealership,forum,DealerRefresh,dealerrefresh.com,,dealerrefresh,90,LOW,5.64,38.32,Dealer staff forum
+dealership,association,NADA,nada.org,,national automobile dealers association,1600,LOW,0.28,4.53,
+dealership,association,NIADA,niada.com,,niada,1300,LOW,5.54,18.49,Independent dealers
+dealership,association,NIADA,niada.com,,niada convention,90,LOW,,,Independent dealers
+dealership,association,Georgia Automobile Dealers Association,gada.com,,georgia automobile dealers association,90,LOW,,,gada.com confirmed (2026-10-25). Local to Atlanta
+dealership,event,NADA Show,nadashow.org,,nada show,1300,LOW,0.55,4.65,
+dealership,event,NADA Show,nadashow.org,,nada show 2027,170,LOW,0.73,9.37,
+dealership,event,Digital Dealer Conference,digitaldealer.com,,digital dealer conference,110,LOW,3.4,61.84,
+dealership,event,DrivingSales Executive Summit,drivingsales.com,,driving sales executive summit,10,LOW,,,
+dealership,association,Dealer Academy (training),,,dealer academy,70,LOW,1.75,11.48,
+detailing_tint_ppf_ceramic,software,Urable,urable.com,Urable (Android com.abenssolutions.urable 10K+),urable,3600,MEDIUM,0.33,24.27,"For detailing, PPF, wrap, tint, ceramic shops (urable.com, 2026-10-25)"
+detailing_tint_ppf_ceramic,software,Urable,urable.com,Urable (Android com.abenssolutions.urable 10K+),urable login,390,LOW,0.07,0.79,"For detailing, PPF, wrap, tint, ceramic shops (urable.com, 2026-10-25)"
+detailing_tint_ppf_ceramic,software,Mobile Tech RX,mobiletechrx.com,Mobile Tech RX (Android com.mtp.mobiletechbooks 10K+),mobile tech rx,1300,LOW,1.76,24.27,"Auto recon: detailing, PDR, tint, PPF (mobiletechrx.com, 2026-10-25)"
+detailing_tint_ppf_ceramic,software,Mobile Tech RX,mobiletechrx.com,Mobile Tech RX (Android com.mtp.mobiletechbooks 10K+),mobile tech rx login,50,LOW,0.59,7.64,"Auto recon: detailing, PDR, tint, PPF (mobiletechrx.com, 2026-10-25)"
+detailing_tint_ppf_ceramic,software,Tint Wiz,tintwiz.com,No matching Play listing found,tint wiz,880,LOW,2.89,20.17,"Built for automotive and flat glass tinters (tintwiz.com, 2026-10-25)"
+detailing_tint_ppf_ceramic,software,Tint Wiz,tintwiz.com,No matching Play listing found,tintwiz login,90,LOW,,,"Built for automotive and flat glass tinters (tintwiz.com, 2026-10-25)"
+detailing_tint_ppf_ceramic,software,OrbisX,orbisx.ca,OrbisX (Android com.orbisx.orbisx 1K+),orbisx,1600,LOW,4.92,40.0,Domain not confirmed
+detailing_tint_ppf_ceramic,software,Category: detailing / tint software,,,detailing software,30,MEDIUM,2.06,17.12,
+detailing_tint_ppf_ceramic,software,Category: detailing / tint software,,,computer cut window tint software,10,MEDIUM,,,
+detailing_tint_ppf_ceramic,portal,XPEL dealer portal (DAP),xpel.com,XPEL (Android com.xpel.mobileapp 1K+),xpel dap,260,LOW,2.6,19.64,"""xpel"" alone (12,100) is mostly car owners; DAP is the pattern-cutting software installers log into"
+detailing_tint_ppf_ceramic,portal,XPEL dealer portal (DAP),xpel.com,XPEL (Android com.xpel.mobileapp 1K+),xpel dap login,110,LOW,,,"""xpel"" alone (12,100) is mostly car owners; DAP is the pattern-cutting software installers log into"
+detailing_tint_ppf_ceramic,portal,XPEL dealer portal (DAP),xpel.com,XPEL (Android com.xpel.mobileapp 1K+),xpel login,170,LOW,,,"""xpel"" alone (12,100) is mostly car owners; DAP is the pattern-cutting software installers log into"
+detailing_tint_ppf_ceramic,portal,XPEL dealer portal (DAP),xpel.com,XPEL (Android com.xpel.mobileapp 1K+),xpel dealer,320,MEDIUM,3.2,13.05,"""xpel"" alone (12,100) is mostly car owners; DAP is the pattern-cutting software installers log into"
+detailing_tint_ppf_ceramic,portal,XPEL dealer portal (DAP),xpel.com,XPEL (Android com.xpel.mobileapp 1K+),xpel installer,260,MEDIUM,4.24,13.47,"""xpel"" alone (12,100) is mostly car owners; DAP is the pattern-cutting software installers log into"
+detailing_tint_ppf_ceramic,portal,Ceramic Pro installer network,ceramicpro.com,,ceramic pro installer,30,MEDIUM,5.74,20.0,"""ceramic pro"" alone (6,600) is mostly consumers"
+detailing_tint_ppf_ceramic,portal,Ceramic Pro installer network,ceramicpro.com,,ceramic pro login,10,LOW,,,"""ceramic pro"" alone (6,600) is mostly consumers"
+detailing_tint_ppf_ceramic,portal,Ceramic Pro installer network,ceramicpro.com,,ceramic pro certified installer,30,MEDIUM,7.06,17.78,"""ceramic pro"" alone (6,600) is mostly consumers"
+detailing_tint_ppf_ceramic,portal,SunTek dealer,suntekfilms.com,,suntek dealer,20,MEDIUM,1.76,33.82,"""suntek ppf"" HIGH competition: consumer shopping mix"
+detailing_tint_ppf_ceramic,portal,SunTek dealer,suntekfilms.com,,suntek ppf,720,HIGH,1.83,9.5,"consumer product mix | ""suntek ppf"" HIGH competition: consumer shopping mix"
+detailing_tint_ppf_ceramic,portal,LLumar dealer,llumar.com,,llumar dealer,90,MEDIUM,1.97,7.21,
+detailing_tint_ppf_ceramic,portal,LLumar dealer,llumar.com,,llumar,2400,LOW,0.9,4.48,consumer product mix
+detailing_tint_ppf_ceramic,portal,3M window film dealer,3m.com,,3m window film dealer,90,HIGH,1.85,8.23,
+detailing_tint_ppf_ceramic,portal,STEK,stek-usa.com,,stek ppf,1900,MEDIUM,0.26,4.0,consumer product mix | Mostly consumer
+detailing_tint_ppf_ceramic,portal,Gtechniq accredited,gtechniq.com,,gtechniq accredited,20,MEDIUM,,,
+detailing_tint_ppf_ceramic,portal,IGL Coatings,iglcoatings.com,,igl coatings,390,HIGH,0.38,2.37,consumer product mix | HIGH competition: product shoppers
+detailing_tint_ppf_ceramic,portal,Opti-Coat Pro,opticoat.com,,opti coat pro,140,LOW,1.61,8.55,Installer-only product | domain not confirmed (check returned an unrelated page)
+detailing_tint_ppf_ceramic,portal,Kavaca PPF,kavaca.com,,kavaca ppf,140,MEDIUM,1.5,12.0,domain did not answer automated check 2026-10-25
+detailing_tint_ppf_ceramic,portal,Grimco (wrap and film supplier),grimco.com,,grimco,27100,LOW,0.06,3.59,Also serves sign shops
+detailing_tint_ppf_ceramic,portal,Detail King (supplier),detailking.com,,detail king,4400,MEDIUM,1.13,13.03,Pro detailing supplies and training
+detailing_tint_ppf_ceramic,publication,Window Film Magazine,windowfilmmag.com,,window film magazine,50,LOW,,,
+detailing_tint_ppf_ceramic,forum,Autopia forum,autopia.org,,autopia forum,390,LOW,,,Enthusiast and pro mix
+detailing_tint_ppf_ceramic,association,International Detailing Association,the-ida.com,,international detailing association,390,LOW,1.12,4.2,
+detailing_tint_ppf_ceramic,association,International Detailing Association,the-ida.com,,ida certification detailing,0,,,,
+detailing_tint_ppf_ceramic,association,International Window Film Association,iwfa.com,,international window film association,70,LOW,,,
+detailing_tint_ppf_ceramic,association,The Wrap Institute (training),wrapinstitute.com,,the wrap institute,720,LOW,0.45,1.48,
+detailing_tint_ppf_ceramic,association,Detailing Success (Renny Doyle training),detailingsuccess.com,,renny doyle detailing success,20,LOW,,,
+detailing_tint_ppf_ceramic,event,Mobile Tech Expo,mobiletechexpo.com,,mobile tech expo,390,LOW,,,
+car_wash,software,"DRB (SiteWatch, Patheon, TunnelWatch)",drb.com,,drb car wash,210,LOW,0.5,4.56,"Claims ""Trusted by more top 50 conveyor car wash chains than all other technology providers combined"" (drb.com, 2026-10-25)"
+car_wash,software,"DRB (SiteWatch, Patheon, TunnelWatch)",drb.com,,drb tunnel watch,110,LOW,0.38,10.24,"Claims ""Trusted by more top 50 conveyor car wash chains than all other technology providers combined"" (drb.com, 2026-10-25)"
+car_wash,software,Washify (DRB),washify.com,,washify,480,LOW,0.39,5.04,"washify.com redirects to drb.com (DRB owns Washify), checked 2026-10-25"
+car_wash,software,Rinsed (car wash CRM),rinsed.com,,rinsed car wash software,10,MEDIUM,1.39,20.09,"Site claims ""Trusted by over 3,000 car washes"" (rinsed.com, 2026-10-25)"
+car_wash,software,WashCard,washcard.com,,washcard,260,LOW,,,
+car_wash,software,EverWash,everwash.com,,everwash,4400,LOW,0.97,4.51,mixes consumer members | Membership network; includes consumer searches
+car_wash,software,ICS car wash systems,icscarwashsystems.com,,ics car wash,320,MEDIUM,0.82,5.82,
+car_wash,software,Micrologic,micrologic.com,,micrologic car wash,210,LOW,1.85,10.33,"micrologic.com = ""WashCentral by Micrologic"" car wash operator software (2026-10-25)"
+car_wash,software,Category: car wash POS,,,car wash pos system,90,MEDIUM,2.87,19.45,
+car_wash,portal,Sonny's The CarWash Factory,sonnysdirect.com,,sonnys car wash,6600,LOW,0.72,10.39,"may mix consumers looking for a wash | ""world's largest conveyorized car wash equipment manufacturer"" (sonnysdirect.com, 2026-10-25)"
+car_wash,portal,Sonny's The CarWash Factory,sonnysdirect.com,,sonnys direct,2900,LOW,0.27,4.52,"""world's largest conveyorized car wash equipment manufacturer"" (sonnysdirect.com, 2026-10-25)"
+car_wash,portal,PDQ,pdqinc.com,,pdq car wash,4400,LOW,2.12,6.92,mixes consumers looking for a wash | In-bay equipment; term mixes consumers looking for PDQ washes
+car_wash,portal,Ryko,ryko.com,,ryko car wash,2400,LOW,0.48,2.29,
+car_wash,portal,MacNeil,macneilwash.com,,macneil car wash,390,LOW,0.64,8.44,
+car_wash,portal,Belanger,belangerinc.com,,belanger car wash,590,LOW,0.72,7.95,domain did not answer automated check 2026-10-25
+car_wash,publication,Professional Carwashing & Detailing,carwash.com,,professional carwashing and detailing,70,LOW,1.35,3.38,
+car_wash,publication,Modern Car Care,moderncarcare.com,,modern car care,40,LOW,,,domain did not answer automated check 2026-10-25
+car_wash,publication,Auto Laundry News,carwashmag.com,,auto laundry news,90,LOW,,,
+car_wash,association,International Carwash Association,carwash.org,,international carwash association,320,LOW,,,
+car_wash,event,The Car Wash Show,thecarwashshow.com,,the car wash show,320,LOW,,,
+cross_vertical,software,Podium,podium.com,Podium (Android 100K+),podium login,18100,LOW,,,"Reviews and messaging for local businesses, all verticals; competitor-adjacent"
+cross_vertical,software,Birdeye,birdeye.com,,birdeye login,2400,LOW,0.63,38.25,"Reputation software, all local verticals"
+cross_vertical,software,Demandforce,demandforce.com,,demandforce login,2400,LOW,,,"demandforce.com now titled ""Patient Communication Software"" (2026-10-25): healthcare-led, weak auto signal"
+cross_vertical,software,Broadly,broadly.com,,broadly reviews,70,LOW,6.06,37.28,
+cross_vertical,software,Mechanic Advisor,mechanicadvisor.com,,mechanic advisor,110,LOW,,,Shop marketing vendor (competitor)
+cross_vertical,software,AutoOps,autoops.com,,autoops,1000,MEDIUM,0.44,8.65,Domain and meaning not confirmed | site returned no title; meaning of the term not confirmed
+cross_vertical,event,SEMA Show,semashow.com,,sema show,14800,LOW,0.6,3.46,"includes enthusiasts | Trade only, but 14,800 includes enthusiasts following coverage"
+repair_collision_tire,owner_intent,Owner intent: repair shop business,,,auto repair shop marketing,880,MEDIUM,10.0,74.36,Searches an owner (or buyer) makes about running the business
+repair_collision_tire,owner_intent,Owner intent: repair shop business,,,garage liability insurance,1600,MEDIUM,9.75,33.9,Searches an owner (or buyer) makes about running the business
+repair_collision_tire,owner_intent,Owner intent: repair shop business,,,auto repair shop insurance,720,MEDIUM,11.63,70.95,Searches an owner (or buyer) makes about running the business
+repair_collision_tire,owner_intent,Owner intent: repair shop business,,,auto repair shop for sale,1000,MEDIUM,0.12,1.22,Searches an owner (or buyer) makes about running the business
+repair_collision_tire,owner_intent,Owner intent: repair shop business,,,how to get more customers auto repair shop,0,,,,Searches an owner (or buyer) makes about running the business
+repair_collision_tire,owner_intent,Owner intent: shop equipment,,,auto body paint booth,70,HIGH,0.82,9.1,"""tire changer machine"" and ""wheel balancer machine"" are HIGH competition and mix DIY buyers"
+repair_collision_tire,owner_intent,Owner intent: shop equipment,,,collision frame machine,20,HIGH,1.34,5.15,"""tire changer machine"" and ""wheel balancer machine"" are HIGH competition and mix DIY buyers"
+repair_collision_tire,owner_intent,Owner intent: shop equipment,,,tire changer machine,14800,HIGH,0.3,1.77,"mixes DIY buyers | ""tire changer machine"" and ""wheel balancer machine"" are HIGH competition and mix DIY buyers"
+repair_collision_tire,owner_intent,Owner intent: shop equipment,,,wheel balancer machine,3600,HIGH,0.37,2.1,"mixes DIY buyers | ""tire changer machine"" and ""wheel balancer machine"" are HIGH competition and mix DIY buyers"
+dealership,owner_intent,Owner intent: dealership business,,,car dealer marketing,720,MEDIUM,4.15,26.04,"""how to get a dealer license"" is mostly would-be dealers"
+dealership,owner_intent,Owner intent: dealership business,,,dealership marketing,480,MEDIUM,4.3,22.48,"""how to get a dealer license"" is mostly would-be dealers"
+dealership,owner_intent,Owner intent: dealership business,,,dealer marketing magazine,20,LOW,4.97,16.71,"""how to get a dealer license"" is mostly would-be dealers"
+dealership,owner_intent,Owner intent: dealership business,,,car dealer insurance,1300,MEDIUM,8.94,26.94,"""how to get a dealer license"" is mostly would-be dealers"
+dealership,owner_intent,Owner intent: dealership business,,,auto dealer bond,320,MEDIUM,7.18,25.0,"""how to get a dealer license"" is mostly would-be dealers"
+dealership,owner_intent,Owner intent: dealership business,,,auto dealer license,3600,LOW,0.8,5.34,"""how to get a dealer license"" is mostly would-be dealers"
+dealership,owner_intent,Owner intent: dealership business,,,how to get a dealer license,9900,LOW,0.38,3.74,"would-be dealers | ""how to get a dealer license"" is mostly would-be dealers"
+dealership,owner_intent,Owner intent: dealership business,,,facebook marketplace for car dealers,30,LOW,,,"""how to get a dealer license"" is mostly would-be dealers"
+detailing_tint_ppf_ceramic,owner_intent,"Owner intent: detailing, tint, PPF business",,,how to start a detailing business,1000,MEDIUM,0.45,6.48,Includes would-be owners and new installers
+detailing_tint_ppf_ceramic,owner_intent,"Owner intent: detailing, tint, PPF business",,,detailing business insurance,170,MEDIUM,20.5,54.0,Includes would-be owners and new installers
+detailing_tint_ppf_ceramic,owner_intent,"Owner intent: detailing, tint, PPF business",,,window tint business,1600,MEDIUM,1.64,19.57,Includes would-be owners and new installers
+detailing_tint_ppf_ceramic,owner_intent,"Owner intent: detailing, tint, PPF business",,,ppf training,260,MEDIUM,0.73,3.38,Includes would-be owners and new installers
+detailing_tint_ppf_ceramic,owner_intent,"Owner intent: detailing, tint, PPF business",,,ceramic coating training,90,MEDIUM,0.8,2.78,Includes would-be owners and new installers
+detailing_tint_ppf_ceramic,owner_intent,"Owner intent: detailing, tint, PPF business",,,ceramic coating certification,110,MEDIUM,0.81,4.3,Includes would-be owners and new installers
+detailing_tint_ppf_ceramic,owner_intent,"Owner intent: detailing, tint, PPF business",,,window tint certification,140,LOW,0.69,3.48,Includes would-be owners and new installers
+detailing_tint_ppf_ceramic,owner_intent,"Owner intent: detailing, tint, PPF business",,,detailing business marketing,40,LOW,0.62,2.02,Includes would-be owners and new installers
+detailing_tint_ppf_ceramic,owner_intent,"Owner intent: detailing, tint, PPF business",,,how to get more detailing customers,20,HIGH,0.75,10.0,Includes would-be owners and new installers
+detailing_tint_ppf_ceramic,owner_intent,Owner intent: film cutting equipment,,,window tint plotter,880,HIGH,0.27,2.44,HIGH competition; plotters also sold to sign shops
+detailing_tint_ppf_ceramic,owner_intent,Owner intent: film cutting equipment,,,ppf plotter,140,HIGH,0.34,3.24,HIGH competition; plotters also sold to sign shops
+detailing_tint_ppf_ceramic,owner_intent,Owner intent: film cutting equipment,,,graphtec plotter,1000,HIGH,0.42,2.87,HIGH competition; plotters also sold to sign shops
+detailing_tint_ppf_ceramic,portal,Coating and wrap brands (consumer mix),,,gyeon,4400,HIGH,0.29,1.78,consumer product mix | Product brands also bought by car owners: do not use as segment terms
+detailing_tint_ppf_ceramic,portal,Coating and wrap brands (consumer mix),,,feynlab,1600,HIGH,0.82,4.67,consumer product mix | Product brands also bought by car owners: do not use as segment terms
+detailing_tint_ppf_ceramic,portal,Coating and wrap brands (consumer mix),,,system x ceramic coating,2900,HIGH,0.57,4.95,consumer product mix | Product brands also bought by car owners: do not use as segment terms
+detailing_tint_ppf_ceramic,portal,Coating and wrap brands (consumer mix),,,avery dennison wrap,3600,HIGH,0.19,1.31,product buyers | Product brands also bought by car owners: do not use as segment terms
+car_wash,owner_intent,Owner intent: car wash business,,,car wash for sale,14800,MEDIUM,0.08,0.7,"mixes investors | ""car wash for sale"" mixes investors"
+car_wash,owner_intent,Owner intent: car wash business,,,car wash equipment,3600,HIGH,0.87,3.25,"""car wash for sale"" mixes investors"
+car_wash,owner_intent,Owner intent: car wash business,,,tunnel car wash equipment,140,MEDIUM,0.68,2.88,"""car wash for sale"" mixes investors"
+car_wash,owner_intent,Owner intent: car wash business,,,how to start a car wash business,880,MEDIUM,0.71,4.02,"""car wash for sale"" mixes investors"
+car_wash,owner_intent,Owner intent: car wash business,,,car wash marketing,170,LOW,4.8,29.0,"""car wash for sale"" mixes investors"
